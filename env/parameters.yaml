@@ -1,0 +1,10 @@
+adminUser:
+  password: local:it/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: me@alexsears.com
+  token: local:it/pipelineUser:token
+  username: searsaw
+prow:
+  hmacToken: local:it/prow:hmacToken
